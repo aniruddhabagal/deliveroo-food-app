@@ -187,7 +187,7 @@ module.exports = {
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/Deliveroo-Clone/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
+<a href="https://github.com/aniruddhabagal/deliveroo-food-app/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
 
 <!-- Run Locally -->
 
@@ -198,7 +198,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/Deliveroo-Clone.git
+  git clone https://github.com/aniruddhabagal/deliveroo-food-app.git
 ```
 
 change directory
@@ -248,6 +248,6 @@ expo publish
 
 ## :handshake: Contact
 
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Sashen - [@twitter_handle](https://twitter.com/AniruddhaBagal) - bagalaniruddha@gmail.com
 
-Project Link: [https://github.com/SashenJayathilaka/Deliveroo-Clone.git](https://github.com/SashenJayathilaka/Deliveroo-Clone.git)
+Project Link: [https://github.com/aniruddhabagal/deliveroo-food-app.git](https://github.com/aniruddhabagal/deliveroo-food-app.git)
