@@ -66,7 +66,7 @@ Deliveroo Clone with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)
 
 #### 🔴 Open the camera app on your device and scan the code below (live demo)
 
-<a href="#instagram"><img src="./qr/expo-go.svg" alt="qr" width="200" height="200" /></a>
+<a href="#instagram"><img src="https://github.com/aniruddhabagal/deliveroo-food-app/assets/64460474/8d140c85-6171-4b70-a112-e91bfadaf3e3" alt="qr" width="200" height="200" /></a>
 <a href="#instagram"><img src="https://user-images.githubusercontent.com/99184393/182557606-b36f2540-1260-42bf-b547-ed5832e3615e.png" alt="qr" width="200" height="200" /></a>
 
 <br />
